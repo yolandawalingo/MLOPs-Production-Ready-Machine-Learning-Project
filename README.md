@@ -5,3 +5,27 @@
 - Git: https://git-scm.com/
 - Flowchart: https://whimsical.com/  # Note to self: Use draw.io instead
 - MLOPs Tool: https://www.evidentlyai.com/ 
+
+## Git commands
+
+```bash
+git add .
+
+git commit -m "Updated"
+
+git push origin main
+```
+
+## How to run?
+
+```bash
+conda create -n visa python=3.12 -y
+```
+
+```bash
+conda activate visa
+```
+
+```bash
+pip install -r requirements.txt
+```
