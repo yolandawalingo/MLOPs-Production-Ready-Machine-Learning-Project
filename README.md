@@ -5,6 +5,7 @@
 - Git: https://git-scm.com/
 - Flowchart: https://whimsical.com/  # Note to self: Use draw.io instead
 - MLOPs Tool: https://www.evidentlyai.com/ 
+- MongoDB: https://www.mongodb.com/ 
 
 ## Git commands
 
